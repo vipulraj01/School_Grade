@@ -13,3 +13,4 @@ else:
     grade = "F"
 
     print("Your grade is " + grade)
+#this program prints the school grade based on their marks
